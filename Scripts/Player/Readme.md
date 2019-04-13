@@ -1,4 +1,4 @@
-#The Scripts of player#
+# The Scripts of Player #
 
 Including:
 - move
